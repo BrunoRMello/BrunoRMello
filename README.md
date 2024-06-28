@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20%20Mello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-4a4846123/)](https://www.linkedin.com/bruno/)
 [![Gmail Badge](https://img.shields.io/badge/-bruno@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno@example.com)](mailto:bruno@example.com)
 
-Desenvolvedor Full Stack com experiência em **Node.js**, **TypeScript**, **MySQL**, **MongoDB** e outras tecnologias modernas. Sempre em busca de aprender e aplicar novas tecnologias em meus projetos.
+Desenvolvedor Back-end com experiência em **Node.js**, **TypeScript**, **MySQL**, **MongoDB** e outras tecnologias modernas. Sempre em busca de aprender e aplicar novas tecnologias em meus projetos.
 
 ## 🚀 Tecnologias e Ferramentas
 
