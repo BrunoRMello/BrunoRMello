@@ -23,9 +23,7 @@ Uma API para encurtar URLs usando Node.js e TypeScript. Integrada com Safe2Pay p
 ### [Outros Projetos](https://github.com/BrunoRMello?tab=repositories)
 Explore todos os meus projetos e contribuições em meu repositório do GitHub.
 
-## 📈 Estatísticas do GitHub
 
-[![Estatísticas do GitHub de Bruno](https://github-readme-stats.vercel.app/api?username=BrunoRMello&show_icons=true&theme=dracula)](https://github.com/BrunoRMello)
 
 ## 📫 Como entrar em contato
 
