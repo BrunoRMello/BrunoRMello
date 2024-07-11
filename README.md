@@ -1,7 +1,7 @@
 # 👋 Olá, sou Bruno R. Mello!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20%20Mello-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-mello-4a4846123/)](https://www.linkedin.com/bruno/)
-[![Gmail Badge](https://img.shields.io/badge/-bruno@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno@example.com)](mailto:bruno@example.com)
+[![Gmail Badge](https://img.shields.io/badge/-mello.bruno@live.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mello.bruno@live.com)](mailto:mello.bruno@live.com)
 
 Desenvolvedor Back-end com experiência em **Node.js**, **TypeScript**, **MySQL**, **MongoDB** e outras tecnologias modernas. Sempre em busca de aprender e aplicar novas tecnologias em meus projetos.
 
@@ -15,10 +15,15 @@ Desenvolvedor Back-end com experiência em **Node.js**, **TypeScript**, **MySQL*
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
+## 📚 Estudos Recentes
+
+Atualmente, estou estudando **Spring Boot** através da [Rocketseat](https://app.rocketseat.com.br), onde estou aprimorando minhas habilidades em desenvolvimento Java e explorando novas práticas e técnicas na construção de APIs e aplicações modernas.
+
+
 ## 🛠️ Projetos
 
 ### [API Link Shortener](https://github.com/BrunoRMello/api-link-shortener)
-Uma API para encurtar URLs usando Node.js e TypeScript. Integrada com Safe2Pay para gerenciar eventos de assinatura via CallbackUrl. Implementação de testes automatizados com Jest e integração contínua com GitHub Actions.
+Uma API para encurtar URLs usando Node.js e TypeScript. Implementação de testes automatizados com Jest e integração contínua com GitHub Actions.
 
 ### [Outros Projetos](https://github.com/BrunoRMello?tab=repositories)
 Explore todos os meus projetos e contribuições em meu repositório do GitHub.
